@@ -1,0 +1,24 @@
+/.DS_Store
+.DS_Store
+/.ipynb_checkpoints
+__pycache__/
+*.pyc
+venv/, .venv/, env/
+/venv/*
+.env
+*.log
+vscode/
+.idea/
+/data/archive/*
+/data/processed/*
+/data/raw/*
+/data/scdph_asthma_ratev2/*
+/logs/*
+/models/*
+/outputs/*
+
+scdph_asthma_ed_age_2016_2024.xlsx
+Modified_Asthma_IP_ED_by_Age_2016-2024.xlsx
+Asthma IP_ED_by Age_2016-2024.xlsx
+
+SC_Asthma_Final_Diagnostics.csv
